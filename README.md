@@ -5,6 +5,3 @@ A simple Flask web app for detecting text from prescription images using **Tesse
 ## 🚀 Features
 - Upload prescription images (JPG, PNG, etc.)
 - Extract text using OCR (pytesseract)
-- Clean Bootstrap UI
-
-## 📂 Project Structure
