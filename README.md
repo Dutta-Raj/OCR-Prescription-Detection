@@ -1,4 +1,4 @@
- #🧾 OCR Prescription Detection
+# 🧾 OCR Prescription Detection
 
 A deep learning–based Flask web app for detecting and extracting text from prescription images using a CNN + LSTM + BiLSTM OCR model.
 Supports both printed and handwritten prescriptions with advanced image preprocessing.
